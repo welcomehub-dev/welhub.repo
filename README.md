@@ -86,7 +86,7 @@ The latest version of Welcome Hub is available through GitHub Releases.
 
 Download the latest release:
 
-`https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/releases/latest`
+`https://github.com/welcomehub-dev/welhub.repo/releases/`
 
 ### How to download
 
